@@ -1,0 +1,629 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>::NIPOST - Delivery of Confidence</title>
+<style type="text/css">
+<!--
+body {
+	background-image: url(images/bg_1.png);
+	background-repeat: repeat-x;
+	background-color: #0000CC;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+.table{border-collapse:collapse;}
+.table01{border-collapse:collapse;
+		border-radius:20px;
+		box-shadow: -2px -3px 5px #0000FF;}
+.text	{
+			width:150px;
+			height:20px;
+			border:1px solid #C5DFFA;
+			background: ;
+			color: #9D9D9D;
+			font-weight:normal;
+		}
+.button	{
+			border:1px solid ;
+			background: #99C2F0;
+			color: blue;
+			font-weight:normal;}
+
+.style1 {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+.style1 a:link{
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	text-decoration:none;
+	color: #FFFFFF;
+}
+.style1 a:hover{
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #5252FC;
+}
+.style1 a:visited {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+.style3 {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #FFFFFF;
+}
+.style8 {font-size: 14}
+.style11 {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #000033;
+}
+.style12 {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #000066;
+}
+.style14 {font-family: Geneva, Arial, Helvetica, sans-serif; font-size: 11px; color: #000000; }
+.style15 {color: #0066FF}
+.style16 {font-family: Geneva, Arial, Helvetica, sans-serif; font-size: 11px; color: #000033; }
+-->
+</style></head>
+
+<body>
+<table width="980" height="140" border="1" align="center" cellpadding="0" cellspacing="0" bordercolor="#FF0000" background="images/top.png" bgcolor="#FF3300" class="table">
+  <tr>
+    <td><table width="950" height="120" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td width="300" align="left" valign="bottom"><img src="images/logo_1.png" width="300" height="120" /></td>
+        <td>&nbsp;</td>
+        <td align="right" valign="bottom">&nbsp;</td>
+        <td width="400" valign="bottom"><table width="400" height="70" border="0" align="center" cellpadding="0" cellspacing="0">
+          <tr>
+            <td><img src="images/slogan.png" width="400" height="70" /></td>
+          </tr>
+        </table>
+          <table height="30" border="0" align="right" cellpadding="0" cellspacing="0">
+          <tr>
+            <td align="center"><table width="180" height="30" border="1" align="right" cellpadding="0" cellspacing="0" bordercolor="#FF9900" bgcolor="#000000" class="table">
+              <tr>
+                <td align="center" class="style1">Chat with agent online </td>
+              </tr>
+            </table></td>
+            <td width="10" align="center">&nbsp;</td>
+            <td width="70" align="center" bgcolor="#FFFFFF"><img src="images/you-tube3.png" width="66" height="30" /></td>
+            <td width="36" align="center"><img src="images/Twitter-logo.png" width="30" height="30" /></td>
+            <td width="36" align="center"><img src="images/facebook-logo.png" width="30" height="30" /></td>
+            <td width="36" align="center"><img src="images/blogger_logo.png" width="30" height="30" /></td>
+          </tr>
+        </table></td>
+      </tr>
+    </table></td>
+  </tr>
+</table>
+<table width="980" height="40" border="1" align="center" cellpadding="0" cellspacing="0" bordercolor="#0000CC" background="images/nav.png" class="table">
+  <tr>
+    <td><table width="980" height="30" border="0" cellpadding="0" cellspacing="0">
+      <tr>
+        <td>&nbsp;</td>
+        <td width="70" align="center" class="style1"><a href="index.php">Home</a></td>
+        <td width="10" align="center"><img src="images/menunav_div.png" width="10" height="35" /></td>
+        <td width="80" align="center" class="style1"><a href="index01.php">Tracking</a></td>
+        <td width="10" align="center"><img src="images/menunav_div.png" width="10" height="35" /></td>
+        <td width="70" align="center" class="style1"><a href="faq.php">FAQ</a></td>
+        <td width="10" align="center"><img src="images/menunav_div.png" width="10" height="35" /></td>
+        <td width="80" align="center" class="style1"><a href="#">Webmail</a></td>
+        <td width="10" align="center"><img src="images/menunav_div.png" width="10" height="35" /></td>
+        <td width="100" align="center" class="style1"><a href="contactus.php">Contact Us</a> </td>
+      </tr>
+    </table></td>
+  </tr>
+</table>
+<table width="980" height="250" border="1" align="center" cellpadding="0" cellspacing="0" bordercolor="#FFCC33" bgcolor="#000033" class="table">
+  <tr>
+    <td><table width="970" height="240" border="0" align="center" cellpadding="0" cellspacing="0" background="images/main.jpg" bgcolor="#000000">
+      <tr>
+        <td><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="970" height="240">
+          <param name="movie" value="media/banner.swf" />
+          <param name="quality" value="high" />
+          <embed src="media/banner.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="970" height="240"></embed>
+        </object></td>
+      </tr>
+    </table></td>
+  </tr>
+</table>
+<table width="980" height="300" border="0" align="center" cellpadding="0" cellspacing="0" bordercolor="#000033" bgcolor="#000000" class="table">
+  <tr>
+    <td align="center" valign="top" bgcolor="#000033"><table width="610" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td><table width="600" border="0" align="center" cellpadding="0" cellspacing="0" bordercolor="#0000CC" bgcolor="#000000" class="table01">
+          <tr>
+            <td><table width="600" border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                  <td>&nbsp;</td>
+                </tr>
+              </table>
+                <table width="570" height="100" border="0" align="center" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <td width="120"><img src="images/profile4.jpg" width="120" height="85" /></td>
+                    <td width="20">&nbsp;</td>
+                    <td align="left" valign="middle" class="style1"><p>NIPOST Couriers Limited was incorporated on 30th   July, 1999 as a limited liability company. Commissioned and duly licensed to carry out her services internationally, NIPOST Courier Limited has expanded geometrically and does her business in almost all the nations in the world.<br />
+                        To learn more about us, <span class="style15">download our corporate profile here</span> </p>
+                      </td>
+                  </tr>
+                </table>
+              <table width="600" border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td>&nbsp;</td>
+                  </tr>
+              </table></td>
+          </tr>
+        </table></td>
+      </tr>
+      <tr>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td height="30" bgcolor="#000066""><table width="300" border="0" align="left" cellpadding="0" cellspacing="0">
+          <tr>
+            <td width="30">&nbsp;</td>
+            <td class="style1">Reasons you should deal with us: </td>
+          </tr>
+        </table></td>
+      </tr>
+      <tr>
+        <td><table width="610" border="1" align="left" cellpadding="0" cellspacing="0" bordercolor="#0000CC" bgcolor="#EAEAFF" class="table">
+          <tr>
+            <td><table width="600" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td>&nbsp;</td>
+              </tr>
+            </table>
+            <table width="580" border="1" align="center" cellpadding="0" cellspacing="0" bordercolor="#FFFFFF" class="table">
+                <tr>
+                  <td><table width="580" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <td width="50" height="25" align="center" valign="middle" bgcolor="#000033"><img src="images/tab.png" width="20" height="20" /></td>
+                      <td height="25" align="left" valign="middle" bgcolor="#000033"><span class="style3">We ship with DHL, FEDEX and GLS world reknown   Companies</span></td>
+                      </tr>
+                    <tr>
+                      <td width="50" height="25" align="center" valign="middle" bgcolor="#000099"><img src="images/tab.png" width="20" height="20" /></td>
+                      <td height="25" align="left" valign="middle" bgcolor="#000099" class="style3">You save up to 50% due to our   high volume of shipping.</td>
+                      </tr>
+                    <tr>
+                      <td width="50" height="25" align="center" valign="middle" bgcolor="#000033"><img src="images/tab.png" width="20" height="20" /></td>
+                      <td height="25" align="left" valign="middle" bgcolor="#000033" class="style3">Each shipment carries $300.00      of insurance free of charge. </td>
+                      </tr>
+                    <tr>
+                      <td width="50" height="25" align="center" valign="middle" bgcolor="#000099"><img src="images/tab.png" width="20" height="20" /></td>
+                      <td height="25" align="left" valign="middle" bgcolor="#000099" class="style3">True online tracking, all the way to      the final destination. </td>
+                      </tr>
+                    <tr>
+                      <td width="50" height="25" align="center" valign="middle" bgcolor="#000033"><img src="images/tab.png" width="20" height="20" /></td>
+                      <td height="25" align="left" valign="middle" bgcolor="#000033" class="style3">We ship and deliver with effectiveness and efficiency . </td>
+                    </tr>
+                    <tr>
+                      <td width="50" height="25" align="center" valign="middle" bgcolor="#000099"><img src="images/tab.png" width="20" height="20" /></td>
+                      <td height="25" align="left" valign="middle" bgcolor="#000099" class="style3">We render door to door delivery service.</td>
+                    </tr>
+                    
+                  </table></td>
+                </tr>
+              </table>
+                <table width="600" border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td>&nbsp;</td>
+                  </tr>
+                </table></td>
+          </tr>
+        </table></td>
+      </tr>
+      <tr>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td><table width="610" border="1" align="center" cellpadding="0" cellspacing="0" bordercolor="#0000CC" bgcolor="#000033" class="table">
+          <tr>
+            <td><table width="550" height="30" border="0" align="center" cellpadding="0" cellspacing="0">
+                <tr>
+                  <td align="left" valign="middle" class="style3">OUR INTERNATIONAL PARTNERS </td>
+                </tr>
+              </table>
+                <table width="580" height="30" border="0" align="center" cellpadding="0" cellspacing="0" bordercolor="#0000FF" class="table">
+                  <tr>
+                    <td width="80" align="center" valign="middle"><img src="images/mastercard_logo_5.gif" width="70" height="50" /></td>
+                    <td width="80" align="center" valign="middle"><img src="images/visa.gif" width="70" height="50" /></td>
+                    <td width="80" align="center" valign="middle"><img src="images/dhl-logo.jpg" width="70" height="50" /></td>
+                    <td width="50" align="center" valign="middle"><img src="images/ups.jpg" width="40" height="50" /></td>
+                    <td width="110" align="center" valign="middle"><img src="images/Fedex logo.jpg" width="100" height="50" /></td>
+                    <td width="133" align="center" valign="middle"><img src="images/gls.jpg" width="123" height="50" /></td>
+                    <td align="center" valign="middle">&nbsp;</td>
+                  </tr>
+                </table>
+                <br />
+              </td>
+          </tr>
+        </table></td>
+      </tr>
+    </table>
+      <table width="600" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td>&nbsp;</td>
+        </tr>
+    </table></td>
+    <td width="30" align="left" valign="top" background="images/bar.png" bgcolor="#000033">&nbsp;</td>
+    <td width="320" align="left" valign="top" bgcolor="#000033"><br />
+      <table width="300" height="40" border="0" align="center" cellpadding="0" cellspacing="0" bordercolor="#0000CC" background="images/int.png" bgcolor="#000099">
+      <tr>
+        <td width="20">&nbsp;</td>
+        <td class="style1">:: INTERNATIONAL QUOTE :: </td>
+      </tr>
+    </table>
+      <table width="300" height="450" border="1" align="center" cellpadding="0" cellspacing="0" bordercolor="#0000CC" bgcolor="#000033" class="table">
+        <tr>
+          <td><table width="280" border="0" align="center" cellpadding="0" cellspacing="0">
+            <tr>
+              <td>&nbsp;</td>
+            </tr>
+          </table>
+            <table width="270" height="430" border="1" align="center" cellpadding="0" cellspacing="0" bordercolor="#0000CC" background="images/quote.png" bgcolor="#FFFFFF" class="table">
+            <tr>
+              <td align="center" valign="top"><form id="form1" name="form1" method="post" action="quote.php">
+                <table width="250" border="0" align="center" cellpadding="0" cellspacing="0" class="table">
+                  <tr>
+                    <td>&nbsp;</td>
+                    <td>&nbsp;</td>
+                    <td>&nbsp;</td>
+                  </tr>
+                  <tr>
+                    <td colspan="3" align="center"><span class="style12">
+					You require a service pass to use this service, please contact our help desk				
+					</span></td>
+                    </tr>
+                  <tr>
+                    <td colspan="3" align="left">&nbsp;</td>
+                  </tr>
+                  
+                  <tr>
+                    <td width="120"><span class="style11">Origin Country:</span></td>
+                    <td width="10">&nbsp;</td>
+                    <td align="left"><label>
+                      <input name="country" type="text" class="text" id="country" />
+                    </label></td>
+                  </tr>
+                  <tr>
+                    <td width="120"><span class="style8"></span></td>
+                    <td>&nbsp;</td>
+                    <td align="left">&nbsp;</td>
+                  </tr>
+                  <tr>
+                    <td width="120"><span class="style11">Origin Zip </span></td>
+                    <td>&nbsp;</td>
+                    <td align="left"><label>
+                      <input name="textfield2" type="text" class="text" />
+                    </label></td>
+                  </tr>
+                  <tr>
+                    <td width="120"><span class="style8"></span></td>
+                    <td>&nbsp;</td>
+                    <td align="left">&nbsp;</td>
+                  </tr>
+                  <tr>
+                    <td width="120"><span class="style11">Destination Country: </span></td>
+                    <td>&nbsp;</td>
+                    <td align="left"><label>
+                      <select name="Country" class="text" size="1" onchange="form1.country2.value = form2.Country.value; form2.city.value = ''; ">
+                        <option value="Select Country" selected="selected">Select Country</option>
+                        <option value="Albania">Albania</option>
+                        <option value="American Samoa">American Samoa</option>
+                        <option value="Andorra">Andorra</option>
+                        <option value="Angola">Angola</option>
+                        <option value="Anguilla">Anguilla</option>
+                        <option value="Antigua and Barbuda">Antigua and Barbuda</option>
+                        <option value="Argentina">Argentina</option>
+                        <option value="Armenia">Armenia</option>
+                        <option value="Aruba">Aruba</option>
+                        <option value="Australia">Australia</option>
+                        <option value="Austria">Austria</option>
+                        <option value="Azerbaijan">Azerbaijan</option>
+                        <option value="Bahamas">Bahamas</option>
+                        <option value="Bahrain">Bahrain</option>
+                        <option value="Bangladesh">Bangladesh</option>
+                        <option value="Barbados">Barbados</option>
+                        <option value="Belarus">Belarus</option>
+                        <option value="Belgium">Belgium</option>
+                        <option value="Belize">Belize</option>
+                        <option value="Benin">Benin</option>
+                        <option value="Bermuda">Bermuda</option>
+                        <option value="Bhutan">Bhutan</option>
+                        <option value="Bolivia">Bolivia</option>
+                        <option value="Botswana">Botswana</option>
+                        <option value="Brazil">Brazil</option>
+                        <option value="Brunei Darussalam">Brunei Darussalam</option>
+                        <option value="Bulgaria">Bulgaria</option>
+                        <option value="Burkina Faso">Burkina Faso</option>
+                        <option value="Burundi">Burundi</option>
+                        <option value="Cambodia">Cambodia</option>
+                        <option value="Cameroon">Cameroon</option>
+                        <option value="Canada">Canada</option>
+                        <option value="Canary Islands">Canary Islands</option>
+                        <option value="Cape Verde">Cape Verde</option>
+                        <option value="Cayman Islands">Cayman Islands</option>
+                        <option value="Chad">Chad</option>
+                        <option value="Chile">Chile</option>
+                        <option value="China">China</option>
+                        <option value="Colombia">Colombia</option>
+                        <option value="Congo">Congo</option>
+                        <option value="Cook Islands">Cook Islands</option>
+                        <option value="Costa Rica">Costa Rica</option>
+                        <option value="Croatia">Croatia</option>                       <option value="United Kingdom">United Kingdom</option>
+						 <option value="United States">United States</option>
+                        <option value="Uruguay">Uruguay</option>
+                        <option value="Uzbekistan">Uzbekistan</option>
+                        <option value="Vanuatu">Vanuatu</option>
+                        <option value="Vatican City State">Vatican City State</option>
+                        <option value="Venezuela">Venezuela</option>
+                        <option value="Vietnam">Vietnam</option>
+                        <option value="Virgin Islands (British)">Virgin Islands (British)</option>
+                        <option value="Virgin Islands (USA/United Kingdom)">Virgin Islands (USA/United Kingdom)</option>
+                        <option value="Yemen">Yemen</option>
+                        <option value="Zambia">Zambia</option>
+                        <option value="Zimbabwe">Zimbabwe</option>
+                      </select>
+                    </label></td>
+                  </tr>
+                  <tr>
+                    <td width="120"><span class="style8"></span></td>
+                    <td>&nbsp;</td>
+                    <td align="left">&nbsp;</td>
+                  </tr>
+                  <tr>
+                    <td><p class="style11">Number of Package(s): </p>                      </td>
+                    <td>&nbsp;</td>
+                    <td align="left"><label>
+                      <input name="textfield4" type="text" class="text" />
+                    </label></td>
+                  </tr>
+                  <tr>
+                    <td><span class="style8"></span></td>
+                    <td>&nbsp;</td>
+                    <td align="left">&nbsp;</td>
+                  </tr>
+                  <tr>
+                    <td><span class="style11">Insurance:</span></td>
+                    <td>&nbsp;</td>
+                    <td align="left"><label>
+                      <input name="textfield3" type="text" class="text" />
+                    </label></td>
+                  </tr>
+                  <tr>
+                    <td>&nbsp;</td>
+                    <td>&nbsp;</td>
+                    <td align="left">&nbsp;</td>
+                  </tr>
+                  <tr>
+                    <td class="style11">Service Pass: </td>
+                    <td>&nbsp;</td>
+                    <td align="left"><label>
+                      <input name="textfield5" type="password" class="text" />
+                    </label></td>
+                  </tr>
+                  <tr>
+                    <td>&nbsp;</td>
+                    <td>&nbsp;</td>
+                    <td align="left">&nbsp;</td>
+                  </tr>
+                  <tr>
+                    <td>&nbsp;</td>
+                    <td>&nbsp;</td>
+                    <td align="left"><label>
+                      <input name="Submit" type="submit" class="button" value="Quote" />
+                    </label></td>
+                  </tr>
+                  <tr>
+                    <td><span class="style8"></span></td>
+                    <td>&nbsp;</td>
+                    <td align="left">&nbsp;</td>
+                  </tr>
+                </table>
+                            </form>
+              </td>
+            </tr>
+          </table>
+            <table width="300" border="0" align="center" cellpadding="0" cellspacing="0">
+              <tr>
+                <td align="right" class="style16">&nbsp;</td>
+              </tr>
+            </table></td>
+        </tr>
+    </table></td>
+  </tr>
+</table>
+<table width="100%" height="30" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="20" background="images/ring.png">&nbsp;</td>
+  </tr>
+</table>
+<table width="980" height="60" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" valign="top" class="style14"><span class="style1"><a href="controlpanel.php">NIPOST COURIERS LTD</a></span> &copy; 2010 | Privacy Policy | Terms and Conditions | Contact Us<br />
+    Site Credit: Royal Crown Technologies Limited, Lagos, Nigeria. </td>
+  </tr>
+</table>
+</body>
+<html>
+<head>
+<title>::NIPOST - Delivery of Confidence</title>
+<style type="text/css">
+<!--
+body {
+	background-image: ;
+	background-repeat: repeat-x;
+	background-color: #000066;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+.table{border-collapse:collapse;}
+.table01{border-collapse:collapse;
+		border-radius:20px;
+		border:1px solid;
+		box-shadow: -2px -3px 5px #0000FF;}
+.text	{
+			width:300px;
+			height:27px;
+			border:1px solid #C5DFFA;
+			background: ;
+			color: #9D9D9D;
+			font-weight:normal;
+		}
+.button	{
+			border:1px solid ;
+			background: #99C2F0;
+			color: blue;
+			font-weight:normal;}
+
+.style1 {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+.style1 a:link{
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	text-decoration:none;
+	color: #FFFFFF;
+}
+.style1 a:hover{
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #5252FC;
+}
+.style1 a:visited {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+.style14 {font-family: Geneva, Arial, Helvetica, sans-serif; font-size: 11px; color: #FFFFFF; }
+.style17 {font-size: 12px; font-weight: bold; font-family: Geneva, Arial, Helvetica, sans-serif;}
+.style18 {font-family: Geneva, Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold; color: #4088E1; }
+-->
+</style></head>
+
+<body>
+<table width="100%" height="100%" border="0" align="center" cellpadding="0" cellspacing="0" class="table">
+<tr>
+<td align="center" valign="middle" ><table width="530" height="40" border="1" cellpadding="0" cellspacing="0" bordercolor="#0000CC" bgcolor="#000033" class="table">
+  <tr>
+    <td align="left" valign="middle"><table width="520" height="25" border="0" align="left" cellpadding="0" cellspacing="0">
+      <tr>
+        <td width="20">&nbsp;</td>
+        <td class="style1">Realtime Online Tracking </td>
+        <td width="30" class="style1"><img src="images/close.png" width="30" height="25" border="0" onClick="history.go(-1)"></td>
+      </tr>
+    </table></td>
+  </tr>
+</table>
+  <table width="530" height="200" border="1" cellpadding="0" cellspacing="0" bordercolor="#000099" background="images/quote.png" class="table">
+  <tr>
+    <td><table width="520" height="200" border="0" align="left" cellpadding="0" cellspacing="0">
+      <tr>
+        <td width="150" bgcolor="#000033"><table width="145" border="0" cellpadding="0" cellspacing="0" bgcolor="#000033">
+          <tr>
+            <td height="30">&nbsp;</td>
+            <td align="center">&nbsp;</td>
+            <td align="left" class="style18">OTHER LINKS </td>
+          </tr>
+          <tr>
+            <td width="10" height="30">&nbsp;</td>
+            <td width="20" align="center"><img src="images/button.png" alt="link" width="10" height="10"></td>
+            <td align="left" class="style1"><a href="index.php">Home</a></td>
+          </tr>
+          <tr>
+            <td width="10" height="30">&nbsp;</td>
+            <td width="20" align="center"><img src="images/button.png" alt="Link" width="10" height="10"></td>
+            <td align="left" class="style1"><a href="faq.php">FAQ</a></td>
+          </tr>
+          <tr>
+            <td width="10" height="30">&nbsp;</td>
+            <td width="20" align="center"><img src="images/button.png" alt="link" width="10" height="10"></td>
+            <td align="left" class="style1"><a href="#">Shipping</a></td>
+          </tr>
+          <tr>
+            <td width="10" height="30">&nbsp;</td>
+            <td width="20" align="center"><img src="images/button.png" alt="link" width="10" height="10"></td>
+            <td align="left" class="style1"><a href="contactus.php">Contact Us </a></td>
+          </tr>
+          <tr>
+            <td width="10" height="30">&nbsp;</td>
+            <td width="20" align="center">&nbsp;</td>
+            <td align="left">&nbsp;</td>
+          </tr>
+        </table></td>
+        <td width="10" bgcolor="#000099">&nbsp;</td>
+        <td align="center" valign="middle"><form name="form1" method="post" action="track_code.php">
+          <table width="300" border="0" cellpadding="0" cellspacing="0">
+            
+            <tr>
+              <td height="30" align="left" valign="middle" class="style17">
+			  Enter Tracking No:			  </td>
+            </tr>
+            <tr>
+              <td height="30" align="left" valign="middle"><label>
+                <input name="track_no" type="text" class="text" id="track_no">
+              </label></td>
+            </tr>
+            <tr>
+              <td height="30" align="left" valign="middle"><label>
+                <input name="Submit" type="submit" class="button" value="Track">
+              </label></td>
+            </tr>
+          </table>
+                </form>
+        </td>
+      </tr>
+    </table></td>
+    </tr>
+</table></td>
+</tr>
+<tr >
+<td  valign="bottom" height="100">
+<table width="100%" height="30" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="20" background="images/ring.png">&nbsp;</td>
+  </tr>
+</table>
+<table width="980" height="60" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" valign="top" class="style14">NIPOST COURIERS LTD &copy; 2010 | Privacy Policy | Terms and Conditions | Contact Us<br />
+    Site Credit: Royal Crown Technologies Limited, United Kingdom, London. </td>
+  </tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html
